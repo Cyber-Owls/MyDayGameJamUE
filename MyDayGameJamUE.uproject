@@ -24,5 +24,11 @@
 			"Name": "FMODStudio",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Mac",
+		"TVOS"
 	]
 }
