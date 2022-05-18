@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{56c38504-285c-40aa-bc3f-8206bc923e00}">
+		<property name="assetPath">
+			<value>SX/SX_Amb_Village_Bird_5.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.1358750000000004</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{77208a41-25db-4a7f-80cd-13ade13013da}</destination>
+		</relationship>
+	</object>
+</objects>
