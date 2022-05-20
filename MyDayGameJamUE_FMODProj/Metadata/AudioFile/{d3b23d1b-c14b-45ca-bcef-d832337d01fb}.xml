@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d3b23d1b-c14b-45ca-bcef-d832337d01fb}">
+		<property name="assetPath">
+			<value>MX/MX_Challenge_159bpm.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>220.99199999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{77208a41-25db-4a7f-80cd-13ade13013da}</destination>
+		</relationship>
+	</object>
+</objects>
