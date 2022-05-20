@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{64a4489f-13cd-45fa-977b-2b73b211b936}">
+		<property name="assetPath">
+			<value>MX/MX_Forest_HappySadTransition_120bpm.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16.06530612244898</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{77208a41-25db-4a7f-80cd-13ade13013da}</destination>
+		</relationship>
+	</object>
+</objects>
