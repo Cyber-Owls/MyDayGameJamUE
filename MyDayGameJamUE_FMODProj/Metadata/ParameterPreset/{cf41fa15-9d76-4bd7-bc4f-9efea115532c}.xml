@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{cf41fa15-9d76-4bd7-bc4f-9efea115532c}">
 		<property name="name">
-			<value>MusicCue</value>
+			<value>MusicCues</value>
 		</property>
 		<relationship name="folder">
 			<destination>{d7e5d9bd-e780-4e82-8598-fb9461db09c1}</destination>
@@ -16,11 +16,14 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>2</value>
+			<value>5</value>
 		</property>
 		<property name="enumerationLabels">
+			<value>House</value>
 			<value>Village</value>
 			<value>Forest</value>
+			<value>Bridge</value>
+			<value>Tower</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
