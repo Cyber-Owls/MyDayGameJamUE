@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{62a57247-d951-43ab-95b0-2a38764ca54c}">
+		<property name="assetPath">
+			<value>MX/Breathe/FX_BreatheInv3_Everywhere_120bpm.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0751020408163265</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{77208a41-25db-4a7f-80cd-13ade13013da}</destination>
+		</relationship>
+	</object>
+</objects>
