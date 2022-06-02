@@ -34,8 +34,8 @@
 	],
 	"TargetPlatforms": [
 		"Android",
-		"IOS",
 		"Mac",
-		"TVOS"
+		"HoloLens",
+		"Windows"
 	]
 }
